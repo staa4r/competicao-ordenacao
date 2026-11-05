@@ -45,4 +45,5 @@ Coloque o arquivo `listaOdenada.txt` na mesma pasta (ele não vai para o GitHub 
 ## Resultado
 Tempo medido em testes: cerca de 35 ms para 10.000.000 de elementos.
 
-![execucao](print_execucao.png)
+![execucao](<img width="844" height="370" alt="print terminal" src="https://github.com/user-attachments/assets/55eeb3f3-6d65-4be0-94d7-061159138614" />
+)
